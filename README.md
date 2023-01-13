@@ -46,3 +46,7 @@ Lenssen, N., G. Schmidt, J. Hansen, M. Menne, A. Persin, R. Ruedy, and D. Zyss, 
 - Residual Graph
 
 - Hypothesis testing (T-test)
+
+## Copyrights
+
+The work is belonged to all 5 members mentioned above. Any use without asking for permission is illegal.
