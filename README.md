@@ -10,7 +10,7 @@
 
 ## Introduction
 
-This is a final project that applies linear regression to assess the relationship between the **human population** (in billions of people) and the **CO2 emission** (in billions of kilograms). We will seek answers through data analysis and look at several factors that could have led to global warming. Then, by drawing residual graphs and doing hypothesis testing to see which one of them has the largest impact on global warming.
+This is a final project for data modeling course that applies linear regression to assess the relationship between the **human population** (in billions of people) and the **CO2 emission** (in billions of kilograms). We will seek answers through data analysis and look at several factors that could have led to global warming. Then, by drawing residual graphs and doing hypothesis testing to see which one of them has the largest impact on global warming.
 
 ## Research Question
 
